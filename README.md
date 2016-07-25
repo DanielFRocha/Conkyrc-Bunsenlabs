@@ -5,9 +5,11 @@ Conky configuration file
 ========================
 An Upgraded Version of this Original Clean and Simple Conk Configuration from @zenzire 
 
+International Settings (Celsium) but this can be easy configurated.
+
 This is my Conky configuration files. 
 
-![Conky](https://raw.github.com/zenzire/conkyrc/master/screenshot.png)
+![Conky](https://raw.githubusercontent.com/DanielFRocha/Conkyrc-Bunsenlabs/Conkyrc-Bunsenlabs/Screenshot%20.png)
 
 
 Installation
@@ -16,7 +18,7 @@ Installation
 Fetch the configuration files from GitHub repository:
 
 ``
-$ git clone git://github.com/zenzire/conkyrc.git ~/.conky
+$ git clone git://github.com/DanielFRocha/Conkyrc-Bunsenlabs.git ~/.conky
 ``
 
 Create link:
