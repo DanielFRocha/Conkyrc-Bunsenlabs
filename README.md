@@ -9,7 +9,7 @@ International Settings (Celsium) but this can be easy configurated.
 
 This is my Conky configuration files. 
 
-![Conky](https://raw.githubusercontent.com/DanielFRocha/Conkyrc-Bunsenlabs/Conkyrc-Bunsenlabs/Screenshot%20.png)
+![Conky](https://raw.githubusercontent.com/DanielFRocha/Conkyrc-Bunsenlabs/Conkyrc-Bunsenlabs/Screenshot.png)
 
 
 Installation
