@@ -3,6 +3,7 @@ Version 1.2
 
 Conky configuration file
 ========================
+An Upgraded Version of this Original Clean and Simple Conk Configuration from @zenzire 
 
 This is my Conky configuration files. 
 
